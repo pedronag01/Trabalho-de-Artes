@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;  
+}
+h3{
+    color: rgb(231, 219, 219);
+    text-align: center;
+    width: auto;    
+}
+body{
+    background: rgb(191, 25, 141);
+}
+h2{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background: rgb(171, 120, 156);
+    width: 150px;
+    border-radius: 10%;
+    height: 20px;
+    margin: auto;
+    margin-top: 10px;
+}
