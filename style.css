@@ -2,11 +2,8 @@ h1{
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: 50px;  
-    border: 1px solid rgb(224, 153, 203);
-    border-radius: 3%;
-    
-    
-   
+    border: 1px solid rgb(202, 128, 180);
+    border-radius: 3%; 
 }
 h3{
     color: rgb(230, 219, 231);
@@ -21,6 +18,8 @@ h2{
     text-align: center;
     margin-top: 30px;
     font-size: 30px;
+    font-family: fantasy;
+    color: rgb(218, 230, 230);
 }
 footer{
     text-align: center;
@@ -46,4 +45,17 @@ hr{
     border: dotted 1px;
     width: auto;
     color: rgb(232, 233, 211);
+}
+img{
+    height: 200px;
+    display: flex;
+    align-items: center; 
+    margin: auto;
+    width: 150px;
+}
+p{
+    color: rgb(231, 219, 219);
+    font-size: 30px;
+    text-align: center;
+    font-family: fantasy;
 }
