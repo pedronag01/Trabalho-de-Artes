@@ -5,6 +5,7 @@ h1{
     border: 1px solid rgb(202, 60, 160);
     border-radius: 3%;
     
+    
    
 }
 h3{
@@ -39,4 +40,8 @@ iframe{
     align-items: center; 
     margin: auto;
     border: 0.1px solid rgb(220, 20, 20);
+}
+hr{
+    border: dotted 1px;
+    width: 300px;
 }
