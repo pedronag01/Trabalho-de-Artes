@@ -59,6 +59,7 @@ img{
     margin: auto;
     width: 123px;
     margin-top: 20px;
+    margin-bottom: 10px;
 }
 p{
     color: rgb(231, 219, 219);
@@ -98,4 +99,8 @@ h6{
 }
 #titulo{
     width: 305px
+}
+#topo{
+    width: 290px;
+    border-radius: 50%;
 }
