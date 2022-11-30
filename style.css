@@ -48,6 +48,7 @@ iframe{
 hr{
     border: dotted 1px;
     width: auto;
+    color: rgb(202, 211, 219);
     
 
 }
@@ -69,4 +70,32 @@ h6{
     text-align: end;
     margin-bottom: 0px;
     color: rgb(158, 152, 152);
+}
+#sue{
+    width: 290px;
+}
+#celta{
+    width: 290px;
+}
+#hoje{
+    width: 180px;
+}
+#festivals{
+    width: 290px;
+}
+#festamor{
+    width: 290px;
+}
+#festaatual{
+    width: 290px;
+}
+#baal{
+    width: 290px;
+}
+#medo{
+    width: 305px
+    
+}
+#titulo{
+    width: 305px
 }
