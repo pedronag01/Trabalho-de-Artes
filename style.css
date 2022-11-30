@@ -4,6 +4,7 @@ h1{
     font-size: 50px;  
     border: 1px solid rgb(202, 128, 180);
     border-radius: 3%; 
+    margin: 0;
 }
 h3{
     color: rgb(230, 219, 231);
@@ -13,6 +14,7 @@ h3{
 }
 body{
     background: rgb(191, 25, 141);
+    
 }
 h2{
     text-align: center;
@@ -20,6 +22,7 @@ h2{
     font-size: 30px;
     font-family: fantasy;
     color: rgb(218, 230, 230);
+    width: auto;
 }
 footer{
     text-align: center;
@@ -40,10 +43,12 @@ iframe{
     align-items: center; 
     margin: auto;
     border: 0.1px solid rgb(220, 20, 20);
+    width: auto;
 }
 hr{
     border: dotted 1px;
     width: auto;
+    
 
 }
 img{
@@ -51,7 +56,8 @@ img{
     display: flex;
     align-items: center; 
     margin: auto;
-    width: 130px;
+    width: 123px;
+    margin-top: 20px;
 }
 p{
     color: rgb(231, 219, 219);
