@@ -44,14 +44,14 @@ iframe{
 hr{
     border: dotted 1px;
     width: auto;
-    color: rgb(232, 233, 211);
+
 }
 img{
     height: 200px;
     display: flex;
     align-items: center; 
     margin: auto;
-    width: 150px;
+    width: 130px;
 }
 p{
     color: rgb(231, 219, 219);
