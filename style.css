@@ -65,3 +65,8 @@ p{
     text-align: center;
     font-family: fantasy;
 }
+h6{
+    text-align: end;
+    margin-bottom: 0px;
+    color: rgb(158, 152, 152);
+}
