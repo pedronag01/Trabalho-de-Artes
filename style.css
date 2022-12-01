@@ -18,8 +18,21 @@ h3 {
 
 body {
     background: rgb(191, 25, 141);
-    background-image: linear-gradient(90deg, rgba(255, 0, 153, 0.887), rgba(255, 255, 0, 0.584));
+    background: linear-gradient(45deg, #f603b5,#ffea00,#b20f9c,#2609cd);
+    animation: colors 15s ease infinite;
+    background-size: 300% 300%;
+}
 
+@keyframes colors {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
 }
 
 h2 {
