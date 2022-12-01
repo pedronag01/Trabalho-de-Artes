@@ -58,6 +58,7 @@ footer {
     border: 1px solid rgb(223, 247, 2);
     font-style: inherit;
     font-size: medium;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 iframe {
