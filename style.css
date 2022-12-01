@@ -1,8 +1,8 @@
 h1{
     text-align: center;
     color: rgb(255, 255, 255);
-    font-size: 60px;  
-    border: 1px solid rgb(202, 128, 180);
+    font-size: 55px;  
+    order: 1px solid rgb(202, 128, 180);
     border-radius: 3%; 
     margin: 0;
 }
@@ -14,6 +14,7 @@ h3{
 }
 body{
     background: rgb(191, 25, 141);
+    background-image: linear-gradient(90deg, rgba(255, 0, 153, 0.887), rgba(255, 255, 0, 0.584));
     
 }
 h2{
@@ -70,37 +71,37 @@ p{
 h6{
     text-align: end;
     margin-bottom: 0px;
-    color: rgb(158, 152, 152);
+    color: rgb(0, 0, 0);
 }
 #sue{
-    width: 345px;
+    width: 280px;
 }
 #celta{
-    width: 345px;
+    width: 280px;
 }
 #hoje{
     width: 180px;
 }
 #festivals{
-    width: 345px;
+    width: 280px;
 }
 #festamor{
-    width: 345px;
+    width: 280px;
 }
 #festaatual{
-    width: 345px;
+    width: 280px;
 }
 #baal{
-    width: 345px;
+    width: 280px;
 }
 #medo{
-    width: 345px
-    
+    width: 280px;
+    margin-top: 165px;
 }
 #titulo{
-    width: 365px
+    width: 303px
 }
 #topo{
-    width: 345px;
+    width: 280px;
     border-radius: 20%;
 }
